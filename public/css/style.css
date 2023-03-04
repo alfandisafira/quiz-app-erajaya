@@ -1,0 +1,23 @@
+body{
+  background-color:#eee;
+}
+
+/* LOGIN PAGE */
+.login-page,
+.quiz-description {
+  margin-top: 10%;
+  background-color: antiquewhite;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.quiz-description {
+  padding: 20px;
+}
+
+.item-quiz {
+  width: 100px;
+}
+
+.question {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
